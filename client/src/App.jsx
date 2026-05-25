@@ -3,6 +3,7 @@ import {
   Routes,
   Route,
 } from "react-router-dom";
+import Register from "./pages/Register";
 import Settings from "./pages/Settings";
 import Login from "./pages/Login";
 import Dashboard from "./pages/Dashboard";
@@ -25,7 +26,8 @@ function App() {
             </ProtectedRoute>
           }
         />
-
+        <Route path="/login" element={<Login />} />
+        <Route path="/register" element={<Register />} />
         <Route
           path="/dashboard"
           element={
