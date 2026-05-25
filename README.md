@@ -92,6 +92,33 @@ Deployed using **Render**
 
 ## 📸 Screenshots
 
+### 🔑 Login Page
+![Login](./screenshots/login.png.png)
+
+---
+
+### 📝 Register Page
+![Register](./screenshots/register.png.png)
+
+---
+
+### 📊 Dashboard
+![Dashboard](./screenshots/dashboard.png.png)
+
+---
+
+### 📋 Leads Section
+![Leads](./screenshots/leads.png.png)
+
+---
+
+### 📈 Lead Management
+![Lead Management](./screenshots/leadmanagemnt.png.png)
+
+---
+
+### ⚙️ Settings Page
+![Settings](./screenshots/settings.png.png)
 
 
 ---
