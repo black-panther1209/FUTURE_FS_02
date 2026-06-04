@@ -2,7 +2,7 @@
 
 A modern and responsive Full Stack CRM (Customer Relationship Management) web application built using the MERN Stack.  
 This project helps users manage leads efficiently with secure authentication, interactive dashboards, and a clean UI experience.
-
+LIVE DEMO: https://minicrmwebsite.vercel.app
 ---
 
 # 🌟 Features
