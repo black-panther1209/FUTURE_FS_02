@@ -104,7 +104,7 @@ Deployed using **Render**
 ---
 
 ### 📊 Dashboard
-![Dashboard](./screenshots/dashboard.png.png)
+![Dashboard](./screenshots/dasboard.png.png)
 
 ---
 
